@@ -1,0 +1,1195 @@
+[15-May-25 15:47:17 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[15-May-25 15:47:17 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[15-May-25 15:47:17 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[15-May-25 15:47:18 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[15-May-25 15:47:18 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[15-May-25 15:47:18 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[15-May-25 15:47:27 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[15-May-25 15:47:40 - INFO] - AudifyMusic.core.bot - Music Bot Started as MUSICBOT 
+[15-May-25 15:47:41 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[15-May-25 15:47:41 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[15-May-25 15:47:43 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=7089574265>ＬＯＲＤ ＡＩＲＥＮ</a>
+[15-May-25 15:47:43 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[15-May-25 15:47:57 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[15-May-25 15:48:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[15-May-25 15:48:46 - INFO] - AudifyMusic.core.userbot - Stopping Assistants...
+[15-May-25 15:48:46 - INFO] - AudifyMusic - Stopping Audify Music Bot...
+[15-May-25 15:49:21 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[15-May-25 15:49:21 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[15-May-25 15:49:21 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[15-May-25 15:49:21 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[15-May-25 15:49:21 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[15-May-25 15:49:21 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[15-May-25 15:49:26 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[15-May-25 15:49:36 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[15-May-25 15:49:36 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[15-May-25 15:49:36 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[15-May-25 15:49:38 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=7089574265>ＬＯＲＤ ＡＩＲＥＮ</a>
+[15-May-25 15:49:38 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[15-May-25 15:49:50 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[15-May-25 15:50:06 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[15-May-25 15:50:06 - INFO] - AudifyMusic.core.userbot - Stopping Assistants...
+[15-May-25 15:50:06 - INFO] - AudifyMusic - Stopping Audify Music Bot...
+[15-May-25 15:50:48 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[15-May-25 15:50:48 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[15-May-25 15:50:48 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[15-May-25 15:50:48 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[15-May-25 15:50:48 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[15-May-25 15:50:48 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[15-May-25 15:50:53 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[15-May-25 15:51:04 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[15-May-25 15:51:04 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[15-May-25 15:51:04 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[15-May-25 15:51:06 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=7089574265>ＬＯＲＤ ＡＩＲＥＮ</a>
+[15-May-25 15:51:06 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[15-May-25 15:51:16 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[15-May-25 18:59:41 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[15-May-25 18:59:41 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[15-May-25 18:59:41 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[15-May-25 18:59:41 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[15-May-25 18:59:41 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[15-May-25 18:59:41 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[15-May-25 18:59:51 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[15-May-25 19:00:02 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[15-May-25 19:00:03 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[15-May-25 19:00:03 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[15-May-25 19:00:05 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=7089574265>ＬＯＲＤ ＡＩＲＥＮ</a>
+[15-May-25 19:00:05 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[15-May-25 19:00:31 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[15-May-25 19:18:41 - ERROR] - root - Error generating thumbnail for video Qhl0bocazGQ: cannot identify image file 'cache/thumbQhl0bocazGQ.png'
+[15-May-25 19:20:03 - ERROR] - root - Error generating thumbnail for video IJq0yyWug1k: cannot identify image file 'cache/thumbIJq0yyWug1k.png'
+[15-May-25 19:21:35 - ERROR] - root - Error generating thumbnail for video 1wq47tabJh0: cannot identify image file 'cache/thumb1wq47tabJh0.png'
+[15-May-25 19:21:35 - ERROR] - pyrogram.dispatcher - name 'traceback' is not defined
+Traceback (most recent call last):
+  File "/home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/utils/thumbnails.py", line 169, in get_thumb
+    youtube = Image.open(image_path)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/PIL/Image.py", line 3298, in open
+    try:
+PIL.UnidentifiedImageError: cannot identify image file 'cache/thumb1wq47tabJh0.png'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 373, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/utils/decorators/admins.py", line 113, in wrapper
+    return await mystic(client, message, _, chat_id)
+  File "/home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/plugins/admins/skip.py", line 220, in skip
+    img = await get_thumb(videoid)
+  File "/home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/utils/thumbnails.py", line 249, in get_thumb
+    traceback.print_exc()
+NameError: name 'traceback' is not defined
+[15-May-25 19:23:55 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-139' coro=<auto_end() done, defined at /home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/plugins/misc/autoleave.py:47> exception=NetworkTimeout('SSL handshake failed: ac-6gjwspp-shard-00-02.le9k61p.mongodb.net:27017: timed out (configured timeouts: connectTimeoutMS: 20000.0ms)')>
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/pool_shared.py", line 512, in _configured_socket_interface
+    ssl_sock = ssl_context.wrap_socket(sock, server_hostname=host)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/pyopenssl_context.py", line 412, in wrap_socket
+    ssl_conn.do_handshake()
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/pyopenssl_context.py", line 149, in do_handshake
+    return self._call(super().do_handshake, *args, **kwargs)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/pyopenssl_context.py", line 145, in _call
+    raise _socket.timeout("timed out") from None
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/plugins/misc/autoleave.py", line 49, in auto_end
+    ender = await is_autoend()
+  File "/home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/utils/database.py", line 201, in is_autoend
+    user = await autoenddb.find_one({"chat_id": chat_id})
+  File "/usr/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/collection.py", line 1755, in find_one
+    for result in cursor.limit(-1):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1284, in __next__
+    return self.next()
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1260, in next
+    if len(self._data) or self._refresh():
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1208, in _refresh
+    self._send_message(q)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1102, in _send_message
+    response = client._run_operation(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1917, in _run_operation
+    return self._retryable_read(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2026, in _retryable_read
+    return self._retry_internal(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1993, in _retry_internal
+    ).run()
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2730, in run
+    return self._read() if self._is_read else self._write()
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2877, in _read
+    with self._client._conn_from_server(self._read_pref, self._server, self._session) as (
+  File "/usr/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1846, in _conn_from_server
+    with self._checkout(server, session) as conn:
+  File "/usr/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1756, in _checkout
+    with server.checkout(handler=err_handler) as conn:
+  File "/usr/lib/python3.10/contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/pool.py", line 1119, in checkout
+    conn = self._get_conn(checkout_started_time, handler=handler)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/pool.py", line 1281, in _get_conn
+    conn = self.connect(handler=handler)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/pool.py", line 1033, in connect
+    networking_interface = _configured_socket_interface(self.address, self.opts)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/pool_shared.py", line 526, in _configured_socket_interface
+    _raise_connection_failure(address, exc, "SSL handshake failed: ", timeout_details=details)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/pool_shared.py", line 141, in _raise_connection_failure
+    raise NetworkTimeout(msg) from error
+pymongo.errors.NetworkTimeout: SSL handshake failed: ac-6gjwspp-shard-00-02.le9k61p.mongodb.net:27017: timed out (configured timeouts: connectTimeoutMS: 20000.0ms)
+[15-May-25 19:36:39 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[15-May-25 19:36:39 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[15-May-25 19:36:39 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[15-May-25 19:36:39 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[15-May-25 19:36:39 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[15-May-25 19:36:39 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[15-May-25 19:36:45 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[15-May-25 19:36:54 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[15-May-25 19:36:54 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[15-May-25 19:36:54 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[15-May-25 19:36:56 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=7089574265>ＬＯＲＤ ＡＩＲＥＮ</a>
+[15-May-25 19:36:56 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[15-May-25 19:37:10 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[15-May-25 20:53:37 - INFO] - AudifyMusic.core.userbot - Stopping Assistants...
+[15-May-25 20:53:37 - INFO] - AudifyMusic - Stopping Audify Music Bot...
+[15-May-25 20:54:54 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[15-May-25 20:54:54 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[15-May-25 20:54:54 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[15-May-25 20:54:54 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[15-May-25 20:54:54 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[15-May-25 20:54:54 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[15-May-25 20:55:05 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[15-May-25 20:55:14 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[15-May-25 20:55:15 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[15-May-25 20:55:15 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[15-May-25 20:55:18 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=6919661011>𝐀𝐑𝐒𝐇 𝐄𝐍𝐆𝐈𝐌𝐀🪬⃤</a>
+[15-May-25 20:55:18 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[15-May-25 20:55:42 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[15-May-25 20:59:57 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[15-May-25 20:59:57 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[15-May-25 20:59:57 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[15-May-25 20:59:57 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[15-May-25 20:59:57 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[15-May-25 20:59:57 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[15-May-25 21:00:14 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[15-May-25 21:00:35 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[15-May-25 21:00:37 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[15-May-25 21:00:37 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[15-May-25 21:00:40 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=6919661011>𝐀𝐑𝐒𝐇 𝐄𝐍𝐆𝐈𝐌𝐀🪬⃤</a>
+[15-May-25 21:00:40 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[15-May-25 21:01:00 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[15-May-25 21:02:20 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[15-May-25 21:02:20 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[15-May-25 21:02:20 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[15-May-25 21:02:20 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[15-May-25 21:02:20 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[15-May-25 21:02:20 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[15-May-25 21:02:36 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[15-May-25 21:02:58 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[15-May-25 21:02:59 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[15-May-25 21:02:59 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[15-May-25 21:03:03 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=6919661011>𝐀𝐑𝐒𝐇 𝐄𝐍𝐆𝐈𝐌𝐀🪬⃤</a>
+[15-May-25 21:03:03 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[15-May-25 21:03:25 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[15-May-25 21:43:11 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-143' coro=<auto_end() done, defined at /home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/plugins/misc/autoleave.py:47> exception=ServerSelectionTimeoutError('No replica set members match selector "Primary()", Timeout: 30s, Topology Description: <TopologyDescription id: 68260904d250b650999ac94b, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription (\'ac-6gjwspp-shard-00-00.le9k61p.mongodb.net\', 27017) server_type: RSSecondary, rtt: 9.210667574090682>, <ServerDescription (\'ac-6gjwspp-shard-00-01.le9k61p.mongodb.net\', 27017) server_type: RSSecondary, rtt: 7.143570262591512>, <ServerDescription (\'ac-6gjwspp-shard-00-02.le9k61p.mongodb.net\', 27017) server_type: Unknown, rtt: None, error=AutoReconnect(\'ac-6gjwspp-shard-00-02.le9k61p.mongodb.net:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)\')>]>')>
+Traceback (most recent call last):
+  File "/home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/plugins/misc/autoleave.py", line 49, in auto_end
+    ender = await is_autoend()
+  File "/home/genz-arsh/Documents/genssmasterbots/AudifyMusic/AudifyMusic/utils/database.py", line 201, in is_autoend
+    user = await autoenddb.find_one({"chat_id": chat_id})
+  File "/usr/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/collection.py", line 1755, in find_one
+    for result in cursor.limit(-1):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1284, in __next__
+    return self.next()
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1260, in next
+    if len(self._data) or self._refresh():
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1208, in _refresh
+    self._send_message(q)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1102, in _send_message
+    response = client._run_operation(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1917, in _run_operation
+    return self._retryable_read(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2026, in _retryable_read
+    return self._retry_internal(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1993, in _retry_internal
+    ).run()
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2730, in run
+    return self._read() if self._is_read else self._write()
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2875, in _read
+    self._server = self._get_server()
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2823, in _get_server
+    return self._client._select_server(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1812, in _select_server
+    server = topology.select_server(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 409, in select_server
+    server = self._select_server(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 387, in _select_server
+    servers = self.select_servers(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 294, in select_servers
+    server_descriptions = self._select_servers_loop(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 344, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: No replica set members match selector "Primary()", Timeout: 30s, Topology Description: <TopologyDescription id: 68260904d250b650999ac94b, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-6gjwspp-shard-00-00.le9k61p.mongodb.net', 27017) server_type: RSSecondary, rtt: 9.210667574090682>, <ServerDescription ('ac-6gjwspp-shard-00-01.le9k61p.mongodb.net', 27017) server_type: RSSecondary, rtt: 7.143570262591512>, <ServerDescription ('ac-6gjwspp-shard-00-02.le9k61p.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-6gjwspp-shard-00-02.le9k61p.mongodb.net:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[15-May-25 21:45:33 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1284, in _parse_message
+    sticker = await types.Sticker._parse(client, doc, attributes)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/sticker.py", line 170, in _parse
+    set_name = await Sticker._get_sticker_set_name(client.invoke, input_sticker_set_id)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/sticker.py", line 130, in _get_sticker_set_name
+    name = (await invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:45:57 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1284, in _parse_message
+    sticker = await types.Sticker._parse(client, doc, attributes)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/sticker.py", line 170, in _parse
+    set_name = await Sticker._get_sticker_set_name(client.invoke, input_sticker_set_id)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/sticker.py", line 130, in _get_sticker_set_name
+    name = (await invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:46:04 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1284, in _parse_message
+    sticker = await types.Sticker._parse(client, doc, attributes)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/sticker.py", line 170, in _parse
+    set_name = await Sticker._get_sticker_set_name(client.invoke, input_sticker_set_id)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/sticker.py", line 130, in _get_sticker_set_name
+    name = (await invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:46:04 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:46:08 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:46:32 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:46:32 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-24492' coro=<Client.handle_updates() done, defined at /home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/client.py:669> exception=TimeoutError('Request timed out')>
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/client.py", line 712, in handle_updates
+    diff = await self.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:47:09 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:54:50 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-25172' coro=<Client.handle_updates() done, defined at /home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/client.py:669> exception=TimeoutError('Request timed out')>
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/client.py", line 712, in handle_updates
+    diff = await self.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:54:50 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:55:04 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:56:13 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:56:26 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-25627' coro=<Client.handle_updates() done, defined at /home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/client.py:669> exception=TimeoutError('Request timed out')>
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/client.py", line 712, in handle_updates
+    diff = await self.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:56:26 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 21:56:41 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:31 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1284, in _parse_message
+    sticker = await types.Sticker._parse(client, doc, attributes)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/sticker.py", line 170, in _parse
+    set_name = await Sticker._get_sticker_set_name(client.invoke, input_sticker_set_id)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/sticker.py", line 130, in _get_sticker_set_name
+    name = (await invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 101, in edited_message_parser
+    parsed, _ = await message_parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 101, in edited_message_parser
+    parsed, _ = await message_parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:48 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:01:49 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:07:23 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:07:23 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:07:23 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:07:23 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[15-May-25 22:12:25 - ERROR] - pyrogram.dispatcher - Request timed out
+Traceback (most recent call last):
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 342, in handler_worker
+    await parser(update, users, chats)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 86, in message_parser
+    await pyrogram.types.Message._parse(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1579, in _parse
+    return await types.Message._parse_message(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/types/messages_and_media/message.py", line 1507, in _parse_message
+    reply_to_message = await client.get_messages(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/messages/get_messages.py", line 134, in get_messages
+    r = await self.invoke(rpc, sleep_threshold=-1)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/methods/advanced/invoke.py", line 94, in invoke
+    r = await session.invoke(
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 445, in invoke
+    return await self.invoke(query, retries - 1, timeout)
+  [Previous line repeated 7 more times]
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 435, in invoke
+    raise e from None
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 422, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/home/genz-arsh/.local/lib/python3.10/site-packages/pyrogram/session/session.py", line 384, in send
+    raise TimeoutError("Request timed out")
+TimeoutError: Request timed out
+[16-May-25 08:37:52 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[16-May-25 08:37:52 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[16-May-25 08:37:52 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[16-May-25 08:37:52 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[16-May-25 08:37:52 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[16-May-25 08:37:52 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[16-May-25 08:37:56 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[16-May-25 08:38:04 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[16-May-25 08:38:04 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[16-May-25 08:38:04 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[16-May-25 08:38:06 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=7089574265>ＬＯＲＤ ＡＩＲＥＮ</a>
+[16-May-25 08:38:06 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[16-May-25 08:38:16 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[16-May-25 09:06:12 - INFO] - AudifyMusic.core.userbot - Stopping Assistants...
+[16-May-25 09:06:12 - INFO] - AudifyMusic - Stopping Audify Music Bot...
+[16-May-25 12:19:14 - INFO] - AudifyMusic.core.mongo - Connecting to your Mongo Database...
+[16-May-25 12:19:14 - INFO] - AudifyMusic.core.mongo - Connected to your Mongo Database.
+[16-May-25 12:19:14 - INFO] - AudifyMusic.core.dir - Directories Updated.
+[16-May-25 12:19:14 - INFO] - AudifyMusic.core.git - Git Client Found [VPS DEPLOYER]
+[16-May-25 12:19:14 - INFO] - AudifyMusic.misc - Local Database Initialized.
+[16-May-25 12:19:14 - INFO] - AudifyMusic.core.bot - Starting Bot...
+[16-May-25 12:19:25 - INFO] - AudifyMusic.misc - Sudoers Loaded.
+[16-May-25 12:19:39 - INFO] - AudifyMusic.core.bot - Music Bot Started as HEREUGIO 
+[16-May-25 12:19:39 - INFO] - AudifyMusic.plugins - Successfully Imported Modules...
+[16-May-25 12:19:39 - INFO] - AudifyMusic.core.userbot - Starting Assistants...
+[16-May-25 12:19:41 - INFO] - AudifyMusic.core.userbot - Assistant Started as <a href=tg://user?id=7089574265>ＬＯＲＤ ＡＩＲＥＮ</a>
+[16-May-25 12:19:41 - INFO] - AudifyMusic.core.call - Starting PyTgCalls Client...
+
+[16-May-25 12:19:59 - INFO] - AudifyMusic - Audify Music Bot Started Successfully.
+
+Don't forget to visit @GrayBots
+[16-May-25 12:23:36 - INFO] - AudifyMusic.core.userbot - Stopping Assistants...
+[16-May-25 12:23:36 - INFO] - AudifyMusic - Stopping Audify Music Bot...
